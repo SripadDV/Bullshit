@@ -1,0 +1,9 @@
+.leftbar {
+    width: 30%;
+    /*border: 1px solid red;*/
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:darkred;
+    text-align: center;
+
+}

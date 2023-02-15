@@ -1,0 +1,47 @@
+.guess {
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    
+}
+
+.form {
+    text-align: center;
+
+    font-size: xx-large;
+    
+}
+
+.OTP {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+    font-size: xx-large;
+    
+}
+
+.OTP_Style {
+            height: 50px;
+            width: 40px;
+            font-size: 40px;  
+            color:crimson;
+            background-color: bisque;
+
+}
+
+.guessButton {
+    width: 225px;
+    height: 50px;
+    margin-top: 80px;
+    background-color:moccasin;
+    border-radius: 10px;
+    font-size: larger;
+    color:crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.guessButton:hover {
+    cursor: pointer;
+}

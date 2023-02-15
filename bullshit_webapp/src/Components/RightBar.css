@@ -1,0 +1,21 @@
+.RightBar{
+    background-color:firebrick;
+    
+    width: 30%;
+}
+
+.GuessHeader {
+    color: antiquewhite;
+    font-size: 300%;
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.Logs {
+    text-align: left;
+    color: ivory;
+    padding: 5px;
+    font-size: larger;
+    padding-left: 40px;
+}

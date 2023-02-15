@@ -1,0 +1,16 @@
+.NewGame {
+    color: black;
+}
+
+.button{
+    background-color:darkseagreen;
+    font-size:xx-large;
+    height: 80%;
+    color:darkblue;
+    margin-top: 20%;
+
+}
+
+.button:hover {
+    cursor:pointer;
+}

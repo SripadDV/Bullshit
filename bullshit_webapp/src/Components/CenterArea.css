@@ -1,0 +1,6 @@
+.centerarea {
+    border: 1px solid black;
+    width: 40%;
+    justify-content: center;
+    background-color:lightcoral;
+}

@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    min-height: calc(96vh - 80px);
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid black;
+}
